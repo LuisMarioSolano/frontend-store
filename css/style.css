@@ -83,7 +83,8 @@ h3 {
     padding: 1rem 0;
     display: flex;
     justify-content: center;
-    gap: 2rem;
+    gap: 2rem; /* Separación forma nueva */
+
 }
 
 .navegacion__enlace {
@@ -94,4 +95,25 @@ h3 {
 
 .navegacion__enlace--activo, .navegacion__enlace:hover {
     color: var(--secundario);
+}
+
+/* productos */
+.producto {
+
+}
+
+.producto__imagen {
+
+}
+
+.producto__informacion {
+
+}
+
+.producto__nombre {
+
+}
+
+.produco__precio {
+    
 }
