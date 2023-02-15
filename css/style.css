@@ -129,13 +129,13 @@ h3 {
     font-size: 4rem;
 }
 
-.produco__precio {
+.producto__precio {
    font-size: 2.8rem; 
    color: var(--secundario);
 }
 
 .producto__nombre,
-.produco__precio {
+.producto__precio {
     font-family: var(--fuentePrincipal);
     margin: 1rem 0;
     text-align: center;
